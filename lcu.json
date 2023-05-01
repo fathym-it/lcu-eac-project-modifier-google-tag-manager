@@ -1,0 +1,21 @@
+{
+  "Package": {
+    "Name": "Install Google Tag Manager to a Project",
+    "Description": "Used to install google tag manager to a project for use in all applications associated with that project.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+  },
+  "Configurations": {
+    "Tag": {
+      "Name": "Add Google Tag Manager",
+      "Description": "Used to add google tag manager.",
+      "Phases": [
+        {
+          "Name": "Add Google Tag Manager",
+          "Order": 1,
+          "Asset": "tag"
+        }
+      ]
+    }
+  }
+}

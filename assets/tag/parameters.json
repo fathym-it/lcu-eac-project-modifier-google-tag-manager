@@ -1,0 +1,19 @@
+{
+  "PROJECT_LOOKUP": {
+    "Order": 1,
+    "Prompts": [
+      {
+        "Type": "eac:projects|select",
+        "Message": "Choose the project to deploy the package to?"
+      }
+    ]
+  },
+  "GTM_CONTAINER_ID": {
+    "Order": 2,
+    "Prompts": [
+      {
+        "Message": "Enter your google tag manager container ID (formatted as GTM-XXXXXX):"
+      }
+    ]
+  }
+}
