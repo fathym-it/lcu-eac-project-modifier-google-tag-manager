@@ -3,7 +3,12 @@
     "Name": "Install Google Tag Manager to a Project",
     "Description": "Used to install google tag manager to a project for use in all applications associated with that project.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
-    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "Intents": [
+      "Google Tag Manager",
+      "Project",
+      "Modifier"
+    ]
   },
   "Configurations": {
     "Tag": {
